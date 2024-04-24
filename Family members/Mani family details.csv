@@ -42,7 +42,7 @@ id,parentId,name,position,image
 41,39,Daughter,,https://bumbeishvili.github.io/avatars/avatars/portrait67.png
 42,6,Bapanamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait14.png
 43,42,Adinarayana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait71.png
-44,42,Suryanarayan amma,Guttikonda / kodati,https://bumbeishvili.github.io/avatars/avatars/portrait73.png
+44,43,Suryanarayan amma,Guttikonda / kodati,https://bumbeishvili.github.io/avatars/avatars/portrait73.png
 45,43,Sowjanya,Guttikonda / Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait79.png
 46,43,Araind,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait81.png
 47,45,Veera venkata satyanarayana,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait15.png
@@ -82,8 +82,8 @@ id,parentId,name,position,image
 81,77,Venkatesh,Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 82,77,Divita chakria,Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
 83,54,Surya Kumari,Guttikonda / Vinjamuri,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
-84,54,Chiranjeevi Sai Manikanta,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
-85,54,Jyothsnavi,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
+84,83,Chiranjeevi Sai Manikanta,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
+85,83,Jyothsnavi,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
 86,55,Surya Ganga bhavani,Guttikonda / Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
 87,55,Adi Naga Pallavi ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
 88,55,Ramachandra Pavan Kumar,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
