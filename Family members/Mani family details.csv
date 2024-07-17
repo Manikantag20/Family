@@ -119,10 +119,10 @@ id,parentId,relation,name,position,image
 118,116,Son,Pretam Ram Karthik,Vinjamuri,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 119,98,Wife,Lakshmi Sulochana,Vinjamuri,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 120,109,Vadina,Family Details,,
-121,120,Father,Ram Murthi,Bandaru,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
+121,120,Father,RamMurthi,Bandaru,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 122,120,Mother,Wife,Bandaru,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 123,121,Son,Ramu ,Bandaru,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 124,63,Husband,Sudharshan,,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
 125,63,Family Details,Family Details,,
-126,124,Mother,Bhuvaneswari,,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
-127,124,Father,Husband,,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
+126,125,Mother,Bhuvaneswari,,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
+127,125,Father,Husband,,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
