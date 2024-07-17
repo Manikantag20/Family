@@ -1,91 +1,91 @@
-id,parentId,name,position,image
-1,,Mani's Family,,https://bumbeishvili.github.io/avatars/avatars/portrait12.png
-2,1,Chinna Chittabbai,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait85.png
-3,1,Aadhamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait16.png
-4,2,Jaganandham,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait17.png
-5,2,Suramma,Guttikonda / Anandham,https://bumbeishvili.github.io/avatars/avatars/portrait18.png
-6,2,Gangaraju,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait19.png
-7,2,Ratnam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait86.png
-8,2,Ramachandra rao,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait89.png
-9,2,Ganga Jalam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait61.png
-10,4,Aachayamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait20.png
-11,10,Nageswarao,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait21.png
-12,10,Chinna Ramana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait22.png
-13,10,Chinna Ratnam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait23.png
-14,11,Mutyalamma,Guttikonda / Venniti,https://bumbeishvili.github.io/avatars/avatars/portrait1.png
-15,14,Chitti babu,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait24.png
-16,14,Balaji,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait26.png
-17,14,Narayana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait2.png
-18,14,Mahalakshmi (simli),Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait25.png
-19,15,w: Mani,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait27.png
-20,19,Son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait3.png
-21,19,Daughter,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait28.png
-22,16,wife,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait33.png
-23,22,son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait31.png
-24,22,Daughter,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait4.png
-25,17,w: Pandu,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait39.png
-26,25,Son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait5.png
-27,25,Daughter,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait10.png
-28,18,hausband ,,https://bumbeishvili.github.io/avatars/avatars/portrait41.png
-29,28,Son ,,https://bumbeishvili.github.io/avatars/avatars/portrait48.png
-30,28,Daughter,,https://bumbeishvili.github.io/avatars/avatars/portrait11.png
-31,12,Bhadrakali,Guttikonda / ,https://bumbeishvili.github.io/avatars/avatars/portrait50.png
-32,31,Jaganandham,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait51.png
-33,31,vinayak,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait52.png
-34,31,Mahalakshmi,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait54.png
-35,32,wife,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait56.png
-36,33,wife,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait13.png
-37,34,Husband,,https://bumbeishvili.github.io/avatars/avatars/portrait6.png
-38,13,Venkatrao,Perusetti,https://bumbeishvili.github.io/avatars/avatars/portrait57.png
-39,38,lavanya ,Perusetti / ,https://bumbeishvili.github.io/avatars/avatars/portrait58.png
-40,38,Deelip,Perusetti,https://bumbeishvili.github.io/avatars/avatars/portrait65.png
-41,39,Daughter,,https://bumbeishvili.github.io/avatars/avatars/portrait67.png
-42,6,Bapanamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait14.png
-43,42,Adinarayana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait71.png
-44,43,Suryanarayan amma,Guttikonda / kodati,https://bumbeishvili.github.io/avatars/avatars/portrait73.png
-45,44,Sowjanya,Guttikonda / Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait79.png
-46,44,Araind,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait81.png
-47,45,Veera venkata satyanarayana,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait15.png
-48,47,Lasya saranya,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait82.png
-49,47,Deshitha priya,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait83.png
-50,8,Pallamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait32.png
-51,50,Venkata Ramana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait84.png
-52,50,Ratnam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait87.png
-53,50,Rajeswari,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait90.png
-54,50,Ramu ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait91.png
-55,50,Murali Krishna,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait34.png
-56,51,Lakshmi Narayana Amma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait97.png
-57,56,Bala Chandra Chitti Babu,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait35.png
-58,56,Venkata Padmavathi,Guttikonda / Kolli,https://bumbeishvili.github.io/avatars/avatars/portrait98.png
-59,57,Krishna Veni,Guttikonda / Dirisina,https://bumbeishvili.github.io/avatars/avatars/portrait99.png
-60,59,Nikil Sai ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait36.png
-61,59,Teja Sri,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait37.png
-62,58,Srinivasa rao,Kolli,https://bumbeishvili.github.io/avatars/avatars/portrait38.png
-63,62,Teja Swi,Kolli / ,https://bumbeishvili.github.io/avatars/avatars/portrait40.png
-64,62,Veeradra Vijay,Kolli,https://bumbeishvili.github.io/avatars/avatars/portrait7.png
-65,52,Rajarao ,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait42.png
-66,65,Veera venkata satyanarayana,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait100.png
-67,65,Sai babu,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait101.png
-68,65,Surya Ganga bhavani,Giduthuri Married #55,https://bumbeishvili.github.io/avatars/avatars/portrait102.png
-69,66,Rajeswari,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait43.png
-70,69,Aruna,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait103.png
-71,69,Chatan Raj,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait104.png
-72,67,Gayathri,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait105.png
-73,72,Dhanu Sri,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
-74,53,Eswara venkata satyanarayana,Bosukonda,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
-75,74,Satya Gangavathi,Bosukonda / Battula,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
-76,74,Nagendra Bhadrinadh,Bosukonda,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
-77,74,Sowjanya Bharathi,Bosukonda / Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
-78,75,Nagaraju,Battula,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
-79,78,Naga Jaya sri,Battula,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
-80,78,Son ,Battula,https://bumbeishvili.github.io/avatars/avatars/portrait108.png
-81,77,Venkatesh,Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
-82,81,Divita chakria,Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
-83,54,Surya Kumari,Guttikonda / Vinjamuri,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
-84,83,Chiranjeevi Sai Manikanta,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
-85,83,Jyothsnavi,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
-86,55,Surya Ganga bhavani,Guttikonda / Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
-87,86,Adi Naga Pallavi ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
-88,86,Ramachandra Pavan Kumar,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
-89,9,satyam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait108.png
-90,9,Son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
+id,parentId,relation,name,position,image
+1,,,Mani's Family,,https://bumbeishvili.github.io/avatars/avatars/portrait12.png
+2,1,Son,Chinna Chittabbai,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait85.png
+3,1,Son,Aadhamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait16.png
+4,2,Son,Jaganandham,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait17.png
+5,2,Son,Suramma,Guttikonda / Anandham,https://bumbeishvili.github.io/avatars/avatars/portrait18.png
+6,2,Son,Gangaraju,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait19.png
+7,2,Son,Ratnam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait86.png
+8,2,Son,Ramachandra rao,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait89.png
+9,2,Son,Ganga Jalam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait61.png
+10,4,Son,Aachayamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait20.png
+11,10,Son,Nageswarao,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait21.png
+12,10,Son,Chinna Ramana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait22.png
+13,10,Son,Chinna Ratnam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait23.png
+14,11,Son,Mutyalamma,Guttikonda / Venniti,https://bumbeishvili.github.io/avatars/avatars/portrait1.png
+15,14,Son,Chitti babu,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait24.png
+16,14,Son,Balaji,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait26.png
+17,14,daughter,Narayana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait2.png
+18,14,daughter,Mahalakshmi (simli),Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait25.png
+19,15,daughter,w: Mani,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait27.png
+20,19,daughter,Son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait3.png
+21,19,daughter,Daughter,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait28.png
+22,16,daughter,wife,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait33.png
+23,22,daughter,son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait31.png
+24,22,daughter,Daughter,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait4.png
+25,17,daughter,w: Pandu,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait39.png
+26,25,daughter,Son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait5.png
+27,25,daughter,Daughter,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait10.png
+28,18,daughter,hausband ,,https://bumbeishvili.github.io/avatars/avatars/portrait41.png
+29,28,daughter,Son ,,https://bumbeishvili.github.io/avatars/avatars/portrait48.png
+30,28,daughter,Daughter,,https://bumbeishvili.github.io/avatars/avatars/portrait11.png
+31,12,daughter,Bhadrakali,Guttikonda / ,https://bumbeishvili.github.io/avatars/avatars/portrait50.png
+32,31,daughter,Jaganandham,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait51.png
+33,31,daughter,vinayak,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait52.png
+34,31,daughter,Mahalakshmi,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait54.png
+35,32,daughter,wife,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait56.png
+36,33,daughter,wife,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait13.png
+37,34,daughter,Husband,,https://bumbeishvili.github.io/avatars/avatars/portrait6.png
+38,13,daughter,Venkatrao,Perusetti,https://bumbeishvili.github.io/avatars/avatars/portrait57.png
+39,38,daughter,lavanya ,Perusetti / ,https://bumbeishvili.github.io/avatars/avatars/portrait58.png
+40,38,daughter,Deelip,Perusetti,https://bumbeishvili.github.io/avatars/avatars/portrait65.png
+41,39,daughter,Daughter,,https://bumbeishvili.github.io/avatars/avatars/portrait67.png
+42,6,daughter,Bapanamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait14.png
+43,42,daughter,Adinarayana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait71.png
+44,43,daughter,Suryanarayan amma,Guttikonda / kodati,https://bumbeishvili.github.io/avatars/avatars/portrait73.png
+45,44,daughter,Sowjanya,Guttikonda / Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait79.png
+46,44,daughter,Araind,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait81.png
+47,45,daughter,Veera venkata satyanarayana,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait15.png
+48,47,daughter,Lasya saranya,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait82.png
+49,47,daughter,Deshitha priya,Bammidi,https://bumbeishvili.github.io/avatars/avatars/portrait83.png
+50,8,daughter,Pallamma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait32.png
+51,50,daughter,Venkata Ramana,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait84.png
+52,50,daughter,Ratnam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait87.png
+53,50,daughter,Rajeswari,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait90.png
+54,50,daughter,Ramu ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait91.png
+55,50,daughter,Murali Krishna,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait34.png
+56,51,daughter,Lakshmi Narayana Amma,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait97.png
+57,56,daughter,Bala Chandra Chitti Babu,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait35.png
+58,56,daughter,Venkata Padmavathi,Guttikonda / Kolli,https://bumbeishvili.github.io/avatars/avatars/portrait98.png
+59,57,daughter,Krishna Veni,Guttikonda / Dirisina,https://bumbeishvili.github.io/avatars/avatars/portrait99.png
+60,59,daughter,Nikil Sai ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait36.png
+61,59,daughter,Teja Sri,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait37.png
+62,58,daughter,Srinivasa rao,Kolli,https://bumbeishvili.github.io/avatars/avatars/portrait38.png
+63,62,daughter,Teja Swi,Kolli / ,https://bumbeishvili.github.io/avatars/avatars/portrait40.png
+64,62,daughter,Veeradra Vijay,Kolli,https://bumbeishvili.github.io/avatars/avatars/portrait7.png
+65,52,daughter,Rajarao ,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait42.png
+66,65,daughter,Veera venkata satyanarayana,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait100.png
+67,65,daughter,Sai babu,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait101.png
+68,65,daughter,Surya Ganga bhavani,Giduthuri Married #55,https://bumbeishvili.github.io/avatars/avatars/portrait102.png
+69,66,daughter,Rajeswari,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait43.png
+70,69,daughter,Aruna,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait103.png
+71,69,daughter,Chatan Raj,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait104.png
+72,67,daughter,Gayathri,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait105.png
+73,72,daughter,Dhanu Sri,Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
+74,53,daughter,Eswara venkata satyanarayana,Bosukonda,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
+75,74,daughter,Satya Gangavathi,Bosukonda / Battula,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
+76,74,daughter,Nagendra Bhadrinadh,Bosukonda,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
+77,74,daughter,Sowjanya Bharathi,Bosukonda / Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
+78,75,daughter,Nagaraju,Battula,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
+79,78,daughter,Naga Jaya sri,Battula,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
+80,78,daughter,Son ,Battula,https://bumbeishvili.github.io/avatars/avatars/portrait108.png
+81,77,daughter,Venkatesh,Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
+82,81,daughter,Divita chakria,Gajendrula,https://bumbeishvili.github.io/avatars/avatars/portrait44.png
+83,54,daughter,Surya Kumari,Guttikonda / Vinjamuri,https://bumbeishvili.github.io/avatars/avatars/portrait46.png
+84,83,daughter,Chiranjeevi Sai Manikanta,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait49.png
+85,83,daughter,Jyothsnavi,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait53.png
+86,55,daughter,Surya Ganga bhavani,Guttikonda / Giduthuri,https://bumbeishvili.github.io/avatars/avatars/portrait106.png
+87,86,daughter,Adi Naga Pallavi ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait107.png
+88,86,daughter,Ramachandra Pavan Kumar,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait55.png
+89,9,daughter,satyam,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait108.png
+90,9,daughter,Son ,Guttikonda,https://bumbeishvili.github.io/avatars/avatars/portrait109.png
