@@ -17,13 +17,13 @@ id,parentId,relation,name,position,image
 16,14,Son,Balaji,Guttikonda,
 17,14,Son,Narayana,Guttikonda,
 18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/simlly.JPG?raw=true
-19,15,Wife,Mani,Guttikonda,
+19,15,Wife,Mani,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/DSC_0926.JPG?raw=true
 20,19,Son,Son ,Guttikonda,
 21,19,Daughter,Daughter,Guttikonda,
 22,16,Wife,wife,Guttikonda,
 23,22,Son,son ,Guttikonda,
 24,22,Daughter,Daughter,Guttikonda,
-25,17,Wife,Pandu,Guttikonda,
+25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Pandu.JPG?raw=true
 26,25,Daughter,Son ,Guttikonda,
 27,25,Daughter,Daughter,Guttikonda,
 28,18,Husband,hausband ,,
@@ -53,40 +53,40 @@ id,parentId,relation,name,position,image
 52,50,Daughter,Ratnam,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Ratnam.JPG?raw=true
 53,50,Daughter,Rajeswari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/B.Rajeswari.JPG?raw=true
 54,50,Son,Ramu ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Dady.JPG?raw=true
-55,50,Son,Murali Krishna,Guttikonda,
+55,50,Son,Murali Krishna,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Muralikrishna.jpg?raw=true
 56,51,Wife,Lakshmi Narayana Amma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/lakshminaranamma.JPG?raw=true
-57,56,Son,Bala Chandra Chitti Babu,Guttikonda,
+57,56,Son,Bala Chandra Chitti Babu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/chittibabu.jpg?raw=true
 58,56,Daughter,Venkata Padmavathi,Guttikonda / Kolli,
-59,57,Wife,Krishna Veni,Guttikonda / Dirisina,
-60,59,Son,Nikil Sai ,Guttikonda,
-61,59,Daughter,Teja Sri,Guttikonda,
+59,57,Wife,Krishna Veni,Guttikonda / Dirisina,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/krishnaveni.jpg?raw=true
+60,59,Son,Nikil Sai ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Nickle.jpg?raw=true
+61,59,Daughter,Teja Sri,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/tejasri.png?raw=true
 62,58,Husband,Srinivasa rao,Kolli,
 63,62,Daughter,Teja Swi,Kolli / ,
 64,62,Son,Veeradra Vijay,Kolli,
 65,52,Husband,Rajarao ,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Rajarao.JPG?raw=true
-66,65,Son,Veera venkata satyanarayana,Giduthuri,
+66,65,Son,Veera venkata satyanarayana,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Satyanarayana.JPG?raw=true
 67,65,Son,Sai babu,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Sai%20babu.jpg?raw=true
-68,65,Daughter,Surya Ganga bhavani,Giduthuri Married #55,
+68,65,Daughter,Surya Ganga bhavani,Giduthuri Married #55,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Bhavani.JPG?raw=true
 69,66,Wife,Rajeswari,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Giduthuri%20Rajeswari.JPG?raw=true
-70,69,Daughter,Aruna,Giduthuri,
-71,69,Son,Chatan Raj,Giduthuri,
+70,69,Daughter,Aruna,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Yeshita%20aruna.jpg?raw=true
+71,69,Son,Chatan Raj,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/chitan.jpg?raw=true
 72,67,Wife,Gayathri,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Gayathri.JPG?raw=true
-73,72,Daughter,Dhanu Sri,Giduthuri,
+73,72,Daughter,Dhanu Sri,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/sai%20daughter.jpg?raw=true
 74,53,Husband,Eswara venkata satyanarayana,Bosukonda,
 75,74,Daughter,Satya Gangavathi,Bosukonda / Battula,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Satya%20gangavarthi.jpg?raw=true
-76,74,Son,Nagendra Bhadrinadh,Bosukonda,
-77,74,Daughter,Sowjanya Bharathi,Bosukonda / Gajendrula,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/sowjanyabharathi.jpg?raw=true
+76,74,Son,Nagendra Bhadrinadh,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Bhadri.jpg?raw=true
+77,74,Daughter,Sowjanya Bharathi,Bosukonda / Gajendrula,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/sowjanya%20bharathi.jpg?raw=true
 78,75,Husband,Nagaraju,Battula,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Nagaraju.jpg?raw=true
 79,78,Daughter,Naga Jaya sri,Battula,
-80,78,Son,Son ,Battula,
+80,78,Son,Son ,Battula,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Nagaraju%20son.jpg?raw=true
 81,77,Husband,Venkatesh,Gajendrula,
 82,81,Son,Divita chakria,Gajendrula,
 83,54,Wife,Surya Kumari,Guttikonda / Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Amma.JPG?raw=true
 84,83,Son,Chiranjeevi Sai Manikanta,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Manikanta.JPG?raw=true
 85,83,Daughter,Jyothsnavi,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Jyothsnavi.JPG?raw=true
-86,55,Wife,Surya Ganga bhavani,Guttikonda / Giduthuri,
-87,86,Daughter,Adi Naga Pallavi ,Guttikonda,
-88,86,Son,Ramachandra Pavan Kumar,Guttikonda,
+86,55,Wife,Surya Ganga bhavani,Guttikonda / Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Bhavani.JPG?raw=true
+87,86,Daughter,Adi Naga Pallavi ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/pallavi.jpg?raw=true
+88,86,Son,Ramachandra Pavan Kumar,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/gpavan.JPG?raw=true
 89,9,Husband,satyam,Guttikonda,
 90,89,Son,Son ,Guttikonda,
 91,54,Amma,Family Details,,
@@ -111,16 +111,16 @@ id,parentId,relation,name,position,image
 110,108,Son,Hemanth PavanKumar,Nakka,
 111,109,Wife,Veeravenkata Satya Sri,Nakka / Bandaru,
 112,111,Daughter,Jaishnavi,Nakka,
-113,96,Husband,Ramu ,Guttikonda,
-114,113,Son,Chiranjeevi Sai Manikanta,Guttikonda,
-115,113,Daughter,Jyothsnavi,Guttikonda,
+113,96,Husband,Ramu ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Dady.JPG?raw=true
+114,113,Son,Chiranjeevi Sai Manikanta,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Manikanta.JPG?raw=true
+115,113,Daughter,Jyothsnavi,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Jyothsnavi.JPG?raw=true
 116,97,Wife,Radha Jaya Sri,Vinjamuri / Guttikonda,
 117,116,Daughter,Maha lakshmi naga Sailaja,Vinjamuri,
 118,116,Son,Pretam Ram Karthik,Vinjamuri,
 119,98,Wife,Lakshmi Sulochana,Vinjamuri,
 120,109,Vadina,Family Details,,
 121,120,Father,RamMurthi,Bandaru,
-122,120,Mother,Wife,Bandaru,
+122,120,Mother,Lakshmi,Bandaru,
 123,121,Son,Ramu ,Bandaru,
 124,63,Husband,Sudharshan,,
 125,63,Family Details,Family Details,,
