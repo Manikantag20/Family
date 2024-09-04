@@ -24,8 +24,8 @@ id,parentId,relation,name,position,image
 23,22,Daughter,Srilekha,Guttikonda,
 24,22,Daughter,srija,Guttikonda,
 25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Pandu.JPG?raw=true
-26,25,Daughter,Son ,Guttikonda,
-27,25,Daughter,Daughter,Guttikonda,
+26,25,Tejasri,Daughter ,Guttikonda,
+27,
 28,18,Husband,Narayana,,
 29,28,Son,Aravind,,
 30,28,Daughter,Vishanavi,,
