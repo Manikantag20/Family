@@ -17,10 +17,10 @@ id,parentId,relation,name,position,image
 16,14,Son,Balaji,Guttikonda,
 17,14,Son,Narayana,Guttikonda,
 18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/simlly.JPG?raw=true
-19,15,Wife,Mani,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/DSC_0926.JPG?raw=true
+19,15,Wife,Mani,Guttikonda,
 20,19,Son,Son ,Guttikonda,
 21,19,Daughter,Daughter,Guttikonda,
-22,16,Wife,Ganeswari,Guttikonda,
+22,16,Wife,Ganeswari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/DSC_0926.JPG?raw=true
 23,22,Daughter,Srilekha,Guttikonda,
 24,22,Daughter,srija,Guttikonda,
 25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Pandu.JPG?raw=true
