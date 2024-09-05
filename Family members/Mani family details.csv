@@ -18,14 +18,14 @@ id,parentId,relation,name,position,image
 17,14,Son,Narayana,Guttikonda,
 18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/simlly.JPG?raw=true
 19,15,Wife,Mani,Guttikonda,
-20,19,Son,Son ,Guttikonda,
-21,19,Daughter,Daughter,Guttikonda,
+20,19,Son,Nagesh,Guttikonda,
+21,19,Daughter,Uma prasnna,Guttikonda,
 22,16,Wife,Ganeswari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/DSC_0926.JPG?raw=true
 23,22,Daughter,Srilekha,Guttikonda,
 24,22,Daughter,srija,Guttikonda,
 25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family%20members/Family%20images/Pandu.JPG?raw=true
 26,25,Tejasri,Daughter ,Guttikonda,
-27,
+27,,,,,
 28,18,Husband,Narayana,,
 29,28,Son,Aravind,,
 30,28,Daughter,Vishanavi,,
@@ -135,6 +135,8 @@ id,parentId,relation,name,position,image
 134,132,Son,Markandeyulu,,
 135,132,Wife,Wife,,
 136,134,Son,Jaganandham,,
-137,134,Wife,Ankamma అంకమ్మ,,
+137,134,Wife,Ankamma ,,
 138,136,Son,Erra Venkayya,,
 139,136,Wife,Venkamma,,
+140,20,Madhuri,Wife,,
+141,140,Cherri,Son ,,
