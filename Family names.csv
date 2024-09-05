@@ -11,7 +11,7 @@ id,parentId,relation,name,position,image
 10,4,Wife,Aachayamma,Guttikonda,
 11,10,Son,Nageswarao,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Nageswarao%20hyd.JPG?raw=true
 12,10,Son,Chinna Ramana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Chinna%20Ramana.jpg?raw=true
-13,10,Daughter,Chinna Ratnam,Guttikonda,
+13,10,Daughter,Chinna Ratnam,Guttikonda / Perusetti,
 14,11,Wife,Mutyalamma,Guttikonda / Venniti,https://github.com/Manikantag20/Family/blob/main/Family_images/Mutyalamma.JPG?raw=true
 15,14,Son,Chitti babu,Guttikonda,
 16,14,Son,Balaji,Guttikonda,
@@ -23,8 +23,8 @@ id,parentId,relation,name,position,image
 22,16,Wife,Ganeswari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Ganeswari.JPG?raw=true
 23,22,Daughter,Srilekha,Guttikonda,
 24,22,Daughter,srija,Guttikonda,
-25,17,Wife,Pandu,Guttikonda,
-26,25,Tejasri,Daughter ,Guttikonda,
+25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Pandu.JPG?raw=true
+26,25,Daughter,Tejasri,Guttikonda,
 28,18,Husband,Narayana,,
 29,28,Son,Aravind,,
 30,28,Daughter,Vishanavi,,
@@ -33,7 +33,7 @@ id,parentId,relation,name,position,image
 33,31,Son,vinayak,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Vinayaka.jpg?raw=true
 34,31,Daughter,Mahalakshmi,Guttikonda,
 35,32,Wife,wife,Guttikonda,
-36,33,Wife,wife,Guttikonda,
+36,33,Wife,wife,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Vinayak%20wife.jpg?raw=true
 37,34,Husband,Husband,,
 38,13,Husband,Venkatrao,Perusetti,
 39,38,Daughter,lavanya ,Perusetti / ,
@@ -49,8 +49,9 @@ id,parentId,relation,name,position,image
 49,47,Daughter,Deshitha priya,Bammidi,https://github.com/Manikantag20/Family/blob/main/Family_images/Deshitha.JPG?raw=true
 50,8,Wife,Pallamma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Pallamma.jpg?raw=true
 51,50,Son,Venkata Ramana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Venkatramana.JPG?raw=true
-52,50,Daughter,Ratnam,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Ratnam.JPG?raw=true
-53,50,Daughter,Rajeswari,Guttikonda Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/B.Rajeswari.JPG?raw=true
+52,50,Daughter,Ratnam,Guttikonda / Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Ratnam.JPG?raw=true
+53,50,Daughter,Rajeswari,Guttikonda / Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/B.Rajeswari.JPG?raw=true
+143,50,Son,Adinarayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Adinarayana.JPG?raw=true
 54,50,Son,Ramu ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Dady.JPG?raw=true
 55,50,Son,Murali Krishna,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Muralikrishna.jpg?raw=true
 56,51,Wife,Lakshmi Narayana Amma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/lakshminaranamma.JPG?raw=true
@@ -104,7 +105,7 @@ id,parentId,relation,name,position,image
 104,103,Son,AbhiRam,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Abhi.JPG?raw=true
 105,103,Son,Son ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/satyanarayana%20son%20impdi.jpg?raw=true
 106,102,Husband,Ramakrishna,Chintakrinda,https://github.com/Manikantag20/Family/blob/main/Family_images/Rama%20Krishna.jpg?raw=true
-107,106,Son,Pandu,,https://github.com/Manikantag20/Family/blob/main/Family_images/Pandu.JPG?raw=true
+107,106,Son,Pandu,,
 108,95,Husband,Nageswarao,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Nageswarao.JPG?raw=true
 109,108,Son,Rama Satyanarayana,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Satya.JPG?raw=true
 110,108,Son,Hemanth PavanKumar,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Pavan.JPG?raw=true
@@ -137,5 +138,6 @@ id,parentId,relation,name,position,image
 137,134,Wife,Ankamma ,,
 138,136,Son,Erra Venkayya,,
 139,136,Wife,Venkamma,,
-140,20,Madhuri,Wife,,
-141,140,Cherri,Son ,,
+140,20,Wife,Madhuri,Guttikonda,
+141,140,Son,Cherri,Guttikonda,
+142,124,Son,Son ,,
