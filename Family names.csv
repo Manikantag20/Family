@@ -1,15 +1,143 @@
-id,parentId,name,lastName,position,image,email,phone_number,hire_date,job_id,salary,commission_pct,department_id,job_min_salary,location_state,job_max_salary,department_name,department_location_id,department_location_street_address,department_location_postal_code,department_location_country_id,department_location_country_name,department_location_country_region_id,department_location_country_region_name
-100,,Steven,King,Chief Operating Officer,https://bumbeishvili.github.io/avatars/avatars/portrait12.png,SKING,515.123.4567,2003-07-16T19:00:00.000Z,AD_PRES,24000,,90,20080,Washington,40000,Executive,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-101,100,Neena,Kochhar,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait85.png,NKOCHHAR,515.123.4568,2005-10-20T20:00:00.000Z,AD_VP,17000,,90,15000,Washington,30000,Executive,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-102,100,Lex,De Haan,Administration Vice President,https://bumbeishvili.github.io/avatars/avatars/portrait16.png,LDEHAAN,515.123.4569,2001-02-12T20:00:00.000Z,AD_VP,17000,,90,15000,Washington,30000,Executive,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-103,102,Alexander,Hunold,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait17.png,AHUNOLD,590.423.4567,2006-02-02T20:00:00.000Z,IT_PROG,9000,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
-104,103,Bruce,Ernst,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait18.png,BERNST,590.423.4568,2007-06-20T20:00:00.000Z,IT_PROG,6000,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
-105,103,David,Austin,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait19.png,DAUSTIN,590.423.4569,2005-07-24T20:00:00.000Z,IT_PROG,4800,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
-106,103,Valli,Pataballa,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait86.png,VPATABAL,590.423.4560,2006-03-04T20:00:00.000Z,IT_PROG,4800,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
-107,103,Diana,Lorentz,Programmer,https://bumbeishvili.github.io/avatars/avatars/portrait89.png,DLORENTZ,590.423.5567,2007-03-06T20:00:00.000Z,IT_PROG,4200,,60,4000,Texas,10000,IT,1400,2014 Jabberwocky Rd,26192,US,United States of America,2,Americas
-108,101,Nancy,Greenberg,Finance Manager,https://bumbeishvili.github.io/avatars/avatars/portrait61.png,NGREENBE,515.124.4569,2002-09-16T19:00:00.000Z,FI_MGR,12008,,100,8200,Washington,16000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-109,108,Daniel,Faviet,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait20.png,DFAVIET,515.124.4169,2002-09-15T19:00:00.000Z,FI_ACCOUNT,9000,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-110,108,John,Chen,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait21.png,JCHEN,515.124.4269,2005-10-27T20:00:00.000Z,FI_ACCOUNT,8200,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-111,108,Ismael,Sciarra,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait22.png,ISCIARRA,515.124.4369,2005-10-29T20:00:00.000Z,FI_ACCOUNT,7700,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-112,108,Jose Manuel,Urman,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait23.png,JMURMAN,515.124.4469,2006-04-06T20:00:00.000Z,FI_ACCOUNT,7800,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
-113,108,Luis,Popp,Accountant,https://bumbeishvili.github.io/avatars/avatars/portrait1.png,LPOPP,515.124.4567,2008-01-06T20:00:00.000Z,FI_ACCOUNT,6900,,100,4200,Washington,9000,Finance,1700,2004 Charade Rd,98199,US,United States of America,2,Americas
+id,parentId,relation,name,position,image
+1,,,Mani's Family,,
+2,138,Husband,Chinna Chittabbai,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Chinna%20Chittabbai.jpg?raw=true
+3,138,Wife,Aadhamma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Aadhamma.jpg?raw=true
+4,2,Son,Jaganandham,Guttikonda,
+5,2,Daughter,Suramma,Guttikonda / Anandham,https://github.com/Manikantag20/Family/blob/main/Family_images/Suramma.jpg?raw=true
+6,2,Son,Gangaraju,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Gangaraju.jpg?raw=true
+7,2,Daughter,Ratnam,Guttikonda,
+8,2,Son,Ramachandra rao,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramachandrarao.jpg?raw=true
+9,2,Daughter,Ganga Jalam,Guttikonda,
+10,4,Wife,Aachayamma,Guttikonda,
+11,10,Son,Nageswarao,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Nageswarao%20hyd.JPG?raw=true
+12,10,Son,Chinna Ramana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Chinna%20Ramana.jpg?raw=true
+13,10,Daughter,Chinna Ratnam,Guttikonda / Perusetti,
+14,11,Wife,Mutyalamma,Guttikonda / Venniti,https://github.com/Manikantag20/Family/blob/main/Family_images/Mutyalamma.JPG?raw=true
+15,14,Son,Chitti babu,Guttikonda,
+16,14,Son,Balaji,Guttikonda,
+17,14,Son,Narayana,Guttikonda,
+18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Lilly.JPG?raw=true
+19,15,Wife,Mani,Guttikonda,
+20,19,Son,Nagesh,Guttikonda,
+21,19,Daughter,Uma prasnna,Guttikonda,
+22,16,Wife,Ganeswari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Ganeswari.JPG?raw=true
+23,22,Daughter,Srilekha,Guttikonda,
+24,22,Daughter,srija,Guttikonda,
+25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Pandu.JPG?raw=true
+26,25,Daughter,Tejasri,Guttikonda,
+28,18,Husband,Narayana,,
+29,28,Son,Aravind,,
+30,28,Daughter,Vishanavi,,
+31,12,Wife,Bhadrakali,Guttikonda / ,https://github.com/Manikantag20/Family/blob/main/Family_images/Bhadrakali.jpg?raw=true
+32,31,Son,Jaganandham,Guttikonda,
+33,31,Son,vinayak,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Vinayaka.jpg?raw=true
+34,31,Daughter,Mahalakshmi,Guttikonda,
+35,32,Wife,wife,Guttikonda,
+36,33,Wife,wife,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Vinayak%20wife.jpg?raw=true
+37,34,Husband,Husband,,
+38,13,Husband,Venkatrao,Perusetti,
+39,38,Daughter,lavanya ,Perusetti / ,
+40,38,Son,Deelip,Perusetti,
+41,39,Daughter,Daughter,,
+42,6,Wife,Bapanamma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Bapanamma.jpg?raw=true
+43,42,Son,Adinarayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Adinarayana.JPG?raw=true
+44,43,Wife,Suryanarayan amma,Guttikonda / kodati,https://github.com/Manikantag20/Family/blob/main/Family_images/Suryanaranamma.JPG?raw=true
+45,44,Daughter,Sowjanya,Guttikonda / Bammidi,https://github.com/Manikantag20/Family/blob/main/Family_images/Sowjanya%20vizag.JPG?raw=true
+46,44,Son,Aravind,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Aravind.JPG?raw=true
+47,45,Husband,Veera venkata satyanarayana,Bammidi,https://github.com/Manikantag20/Family/blob/main/Family_images/B.satyanarayana%20vizag.JPG?raw=true
+48,47,Daughter,Lasya saranya,Bammidi,https://github.com/Manikantag20/Family/blob/main/Family_images/Lasya.JPG?raw=true
+49,47,Daughter,Deshitha priya,Bammidi,https://github.com/Manikantag20/Family/blob/main/Family_images/Deshitha.JPG?raw=true
+50,8,Wife,Pallamma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Pallamma.jpg?raw=true
+51,50,Son,Venkata Ramana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Venkatramana.JPG?raw=true
+52,50,Daughter,Ratnam,Guttikonda / Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Ratnam.JPG?raw=true
+53,50,Daughter,Rajeswari,Guttikonda / Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/B.Rajeswari.JPG?raw=true
+143,50,Son,Adinarayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Adinarayana.JPG?raw=true
+54,50,Son,Ramu ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Dady.JPG?raw=true
+55,50,Son,Murali Krishna,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Muralikrishna.jpg?raw=true
+56,51,Wife,Lakshmi Narayana Amma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/lakshminaranamma.JPG?raw=true
+57,56,Son,Bala Chandra Chitti Babu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/chittibabu.jpg?raw=true
+58,56,Daughter,Venkata Padmavathi,Guttikonda / Kolli,
+59,57,Wife,Krishna Veni,Guttikonda / Dirisina,https://github.com/Manikantag20/Family/blob/main/Family_images/krishnaveni.jpg?raw=true
+60,59,Son,Nikil Sai ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Nickle.jpg?raw=true
+61,59,Daughter,Teja Sri,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/tejasri.png?raw=true
+62,58,Husband,Srinivasa rao,Kolli,https://github.com/Manikantag20/Family/blob/main/Family_images/Srinivasu.JPG?raw=true
+63,62,Daughter,Teja Swi,Kolli / ,
+64,62,Son,Veeradra Vijay,Kolli,
+65,52,Husband,Rajarao ,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Rajarao.JPG?raw=true
+66,65,Son,Veera venkata satyanarayana,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Satyanarayana.G.JPG?raw=true
+67,65,Son,Sai babu,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Sai%20babu.jpg?raw=true
+68,65,Daughter,Surya Ganga bhavani,Giduthuri Married #55,https://github.com/Manikantag20/Family/blob/main/Family_images/Bhavani.JPG?raw=true
+69,66,Wife,Rajeswari,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Giduthuri%20Rajeswari.JPG?raw=true
+70,69,Daughter,Aruna,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Aruna.jpg?raw=true
+71,69,Son,Chatan Raj,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/chitan.jpg?raw=true
+72,67,Wife,Gayathri,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Gayathri.JPG?raw=true
+73,72,Daughter,Dhanu Sri,Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/sai%20daughter.jpg?raw=true
+74,53,Husband,Eswara venkata satyanarayana,Bosukonda,
+75,74,Daughter,Satya Gangavathi,Bosukonda / Battula,https://github.com/Manikantag20/Family/blob/main/Family_images/Satya%20gangavarthi.jpg?raw=true
+76,74,Son,Nagendra Bhadrinadh,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Bhadri.jpg?raw=true
+77,74,Daughter,Sowjanya Bharathi,Bosukonda / Gajendrula,https://github.com/Manikantag20/Family/blob/main/Family_images/sowjanya%20bharathi.jpg?raw=true
+78,75,Husband,Nagaraju,Battula,https://github.com/Manikantag20/Family/blob/main/Family_images/Nagaraju.jpg?raw=true
+79,78,Daughter,Naga Jaya sri,Battula,https://github.com/Manikantag20/Family/blob/main/Family_images/Naga%20Jayasri.JPG?raw=true
+80,78,Son,Son ,Battula,https://github.com/Manikantag20/Family/blob/main/Family_images/Nagaraju%20son.jpg?raw=true
+81,77,Husband,Venkatesh,Gajendrula,
+82,81,Son,Divita chakria,Gajendrula,
+83,54,Wife,Surya Kumari,Guttikonda / Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Amma.JPG?raw=true
+84,83,Son,Chiranjeevi Sai Manikanta,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/25.JPG?raw=true
+85,83,Daughter,Jyothsnavi,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Jyothsnavi.JPG?raw=true
+86,55,Wife,Surya Ganga bhavani,Guttikonda / Giduthuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Bhavani.JPG?raw=true
+87,86,Daughter,Adi Naga Pallavi ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/pallavi.jpg?raw=true
+88,86,Son,Ramachandra Pavan Kumar,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/gpavan.JPG?raw=true
+89,9,Husband,satyam,Guttikonda,
+90,89,Son,Son ,Guttikonda,
+91,54,Amma,Family Details,,
+92,91,Father,Siva ShankaraRao,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Sivasankararao.JPG?raw=true
+93,91,Mother,Nagaratnam,Vinjamuri /,https://github.com/Manikantag20/Family/blob/main/Family_images/Ammama.png?raw=true
+94,92,Daughter,Vijayalakshmi,Vinjamuri / Guttikonda,
+95,92,Daughter,Parvathi,Vinjamuri / Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Parvathi.JPG?raw=true
+96,92,Daughter,SuryaKumari,Vinjamuri / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Amma.JPG?raw=true
+97,92,Son,KoteswaraRao,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/KoteswaRAO.JPG?raw=true
+98,92,Son,Venkataratnam,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Venkatratnam.JPG?raw=true
+99,92,Son,Vijaya Bhaskar Narayana,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Chinni%20mama.JPG?raw=true
+100,94,Husband,Danayya,Guttikonda,
+101,100,Son,Satyanarayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Satyanarayana.JPG?raw=true
+102,100,Daughter,Chandrika,Guttikonda / Chintakrinda,https://github.com/Manikantag20/Family/blob/main/Family_images/chandrika.jpg?raw=true
+103,101,Wife,Satya Devi,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Satya%20devi.JPG?raw=true
+104,103,Son,AbhiRam,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Abhi.JPG?raw=true
+105,103,Son,Son ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/satyanarayana%20son%20impdi.jpg?raw=true
+106,102,Husband,Ramakrishna,Chintakrinda,https://github.com/Manikantag20/Family/blob/main/Family_images/Rama%20Krishna.jpg?raw=true
+107,106,Son,Pandu,,
+108,95,Husband,Nageswarao,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Nageswarao.JPG?raw=true
+109,108,Son,Rama Satyanarayana,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Satya.JPG?raw=true
+110,108,Son,Hemanth PavanKumar,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Pavan.JPG?raw=true
+111,109,Wife,Veeravenkata Satya Sri,Nakka / Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/Satya%20Sri.jpg?raw=true
+112,111,Daughter,Jaishnavi,Nakka,https://github.com/Manikantag20/Family/blob/main/Family_images/Jaishnavi.jpg?raw=true
+113,96,Husband,Ramu ,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Dady.JPG?raw=true
+114,113,Son,Chiranjeevi Sai Manikanta,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/25.JPG?raw=true
+115,113,Daughter,Jyothsnavi,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Jyothsnavi.JPG?raw=true
+116,97,Wife,Radha Jaya Sri,Vinjamuri / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Radha.JPG?raw=true
+117,116,Daughter,Maha lakshmi naga Sailaja,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Naga%20sailaja.jpg?raw=true
+118,116,Son,Pretam Ram Karthik,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Karthik.JPG?raw=true
+119,98,Wife,Lakshmi Sulochana,Vinjamuri / Vujjuru,https://github.com/Manikantag20/Family/blob/main/Family_images/Lakshmi%20Sulochana.JPG?raw=true
+120,109,Vadina,Family Details,,
+121,120,Father,RamMurthi,Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramurthi.JPG?raw=true
+122,120,Mother,Lakshmi,Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/lakshmi.JPG?raw=true
+123,121,Son,Ramu ,Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramu.JPG?raw=true
+124,63,Husband,Sudharshan,,
+125,63,Family Details,Family Details,,
+126,125,Mother,Bhuvaneswari,,
+127,125,Father,Husband,,
+128,1,,Sobhanadri,Guttikonda,
+129,1,Wife,Wife,Guttikonda,
+130,128,Son,Jaganandham,,
+131,128,Wife,Wife,,
+132,130,Son,Erra Venkayya,,
+133,130,Wife,Wife,,
+134,132,Son,Markandeyulu,,
+135,132,Wife,Wife,,
+136,134,Son,Jaganandham,,
+137,134,Wife,Ankamma ,,
+138,136,Son,Erra Venkayya,,
+139,136,Wife,Venkamma,,
+140,20,Wife,Madhuri,Guttikonda,
+141,140,Son,Cherri,Guttikonda,
+142,124,Son,Son ,,
