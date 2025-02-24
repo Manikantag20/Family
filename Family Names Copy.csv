@@ -145,28 +145,28 @@ id,parentId,relation,name,position,image
 144,21,Son,Son,,
 145,144,Son,Son,,
 146,90,Wife,Guttikonda,,
-147,89,Daughter,Nagamani,Amanchi / Guttikonda,
+147,89,Daughter,Nagamani,Amanchi / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Nagamani.JPG?raw=true
 148,147,Husband,aaaa,Amanchi,
-149,148,Daughter,Sujatha,,
+149,148,Daughter,Sujatha,,https://github.com/Manikantag20/Family/blob/main/Family_images/Sujatha.JPG?raw=true
 150,148,Daughter,aaaa,USA,
-151,148,Son,Ramarao,Amanchi,
-152,149,Husband,Ramakrishna,aaaa,
+151,148,Son,Ramarao,Amanchi,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramarao.png?raw=true
+152,149,Husband,Ramakrishna,aaaa,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramakrishna.Amanchi.JPG?raw=true
 153,152,Daughter,aaaa,aaaa,
 154,153,Husband,aaaa,aaaa,
 155,150,Husband,aaaa,aaaa,
 156,155,Son,aaaa,aaaa,
 157,155,Son,aaaa,aaaa,
-158,151,Wife,Divya,Amanchi / Bosukonda,
-159,89,Brother,Venkateswarlu,Bosukonda,
-160,89,Brother,Narasinhamurthi,Bosukonda,
-161,159,Wife,Satyavathi,Bosukonda / Guttikonda,
+158,151,Wife,Divya,Amanchi / Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Divya.png?raw=true
+159,89,Brother,Venkateswarlu,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Venkateswarlu.JPG?raw=true
+160,89,Brother,Narasinhamurthi,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Narasimhamurthi.jpg?raw=true
+161,159,Wife,Satyavathi,Bosukonda / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Satyavathi.JPG?raw=true
 162,161,Son,Srinubabu,Bosukonda,
-163,161,Son,Veera Venkata Satyanarayana,Bosukonda,
-164,161,Daughter,Divya,Bosukonda,
-165,161,Daughter,Srivenya,Bosukonda,
-166,163,Wife,Divya Jyothi,Bosukonda / a,
-167,166,Daughter,Adhvika,Bosukonda,
-168,160,Wife,aaaa,Bosukonda,
-169,168,Daughter,Sharanya,Bosukonda,
+163,161,Son,Veera Venkata Satyanarayana,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Satyanarayana%20HYD.jpg?raw=true
+164,161,Daughter,Divya,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Divya.png?raw=true
+165,161,Daughter,Srivenya,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Srivenya.jpg
+166,163,Wife,Divya Jyothi,Bosukonda / a,https://github.com/Manikantag20/Family/blob/main/Family_images/Jyothi.jpg?raw=true
+167,166,Daughter,Adhvika,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Adhvika.jpg?raw=true
+168,160,Wife,aaaa,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Narasimhamurthi.wife.jpg?raw=true
+169,168,Daughter,Sharanya,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sharanya.jpg
 170,168,Son,Son,,
 171,168,Daughter,aaaa,,
