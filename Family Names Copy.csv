@@ -168,5 +168,5 @@ id,parentId,relation,name,position,image
 167,166,Daughter,Adhvika,Bosukonda,
 168,160,Wife,aaaa,Bosukonda,
 169,168,Daughter,Sharanya,Bosukonda,
-170,160,Son,Son,,
-171,160,Daughter,aaaa,,
+170,168,Son,Son,,
+171,168,Daughter,aaaa,,
