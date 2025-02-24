@@ -15,16 +15,16 @@ id,parentId,relation,name,position,image
 14,11,Wife,Mutyalamma,Guttikonda / Venniti,https://github.com/Manikantag20/Family/blob/main/Family_images/Mutyalamma.JPG?raw=true
 15,14,Son,Chitti babu,Guttikonda,
 16,14,Son,Balaji,Guttikonda,
-17,14,Son,Narayana,Guttikonda,
+17,14,Son,Naga Venkata lakshmi Narayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Guttikonda%20Naga%20Venkata%20Lakshmi%20Narayana.jpg?raw=true
 18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Lilly.JPG?raw=true
 19,15,Wife,Mani,Guttikonda,
 20,19,Son,Nagesh,Guttikonda,
-21,19,Daughter,Uma prasnna,Guttikonda,
+21,19,Daughter,Uma prasnna,Tiruvidula / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Uma%20Prasanna.jpg?raw=true
 22,16,Wife,Ganeswari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Ganeswari.JPG?raw=true
-23,22,Daughter,Srilekha,Guttikonda,
+23,22,Daughter,Jyothi Srilekha,Koduri / Guttikonda,
 24,22,Daughter,srija,Guttikonda,
-25,17,Wife,Pandu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Pandu.JPG?raw=true
-26,25,Daughter,Tejasri,Guttikonda,
+25,17,Wife,Pandu Kumari,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Pandu.JPG?raw=true
+26,25,Daughter,Sai Tejaswi,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Guttikonda%20Sai%20Tejaswi.jpg?raw=true
 28,18,Husband,Narayana,,
 29,28,Son,Aravind,,
 30,28,Daughter,Vishanavi,,
@@ -141,9 +141,9 @@ id,parentId,relation,name,position,image
 140,20,Wife,Madhuri,Guttikonda,
 141,140,Son,Cherri,Guttikonda,
 142,124,Son,Son ,,
-143,23,Son,Son,,
-144,21,Son,Son,,
-145,144,Son,Son,,
+143,23,Husband,Balaram,Koduri,
+144,21,Husband,Shiva,Tiruvidula,https://github.com/Manikantag20/Family/blob/main/Family_images/Tiruvidula%20Shiva.jpg?raw=true
+145,144,Daughter,Pavani Priya,Tiruvidula,https://github.com/Manikantag20/Family/blob/main/Family_images/Tiruvidula%20Pavani%20priya.jpg?raw=true
 146,90,Wife,Guttikonda,,
 147,89,Daughter,Nagamani,Amanchi / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Nagamani.JPG?raw=true
 148,147,Husband,aaaa,Amanchi,
