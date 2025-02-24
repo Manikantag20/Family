@@ -11,12 +11,12 @@ id,parentId,relation,name,position,image
 10,4,Wife,Aachayamma,Guttikonda,
 11,10,Son,Nageswarao,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Nageswarao%20hyd.JPG?raw=true
 12,10,Son,Chinna Ramana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Chinna%20Ramana.jpg?raw=true
-13,10,Daughter,Chinna Ratnam,Guttikonda / Perusetti,
+13,10,Daughter,Chinna Ratnam,Guttikonda / Perusetti,https://github.com/Manikantag20/Family/blob/main/Family_images/Chinna%20Ratnam.JPG?raw=true
 14,11,Wife,Mutyalamma,Guttikonda / Venniti,https://github.com/Manikantag20/Family/blob/main/Family_images/Mutyalamma.JPG?raw=true
-15,14,Son,Chitti babu,Guttikonda,
-16,14,Son,Balaji,Guttikonda,
+15,14,Son,Naga Venkata Chitti babu,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Naga%20venkata%20chittibabu.jpg?raw=true
+16,14,Son,Balaji,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Balaji%20hyd.jpg?raw=true
 17,14,Son,Naga Venkata lakshmi Narayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Guttikonda%20Naga%20Venkata%20Lakshmi%20Narayana.jpg?raw=true
-18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Lilly.JPG?raw=true
+18,14,Daughter,Mahalakshmi (simli),Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Simli.jpg?raw=true
 19,15,Wife,Mani,Guttikonda,
 20,19,Son,Nagesh,Guttikonda,
 21,19,Daughter,Uma prasnna,Tiruvidula / Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Uma%20Prasanna.jpg?raw=true
@@ -36,9 +36,9 @@ id,parentId,relation,name,position,image
 36,33,Wife,wife,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Vinayak%20wife.jpg?raw=true
 37,34,Husband,Husband,,
 38,13,Husband,Venkatrao,Perusetti,
-39,38,Daughter,lavanya ,Perusetti / ,
+39,38,Daughter,lavanya ,Perusetti / ,https://github.com/Manikantag20/Family/blob/main/Family_images/Lavanya.JPG?raw=true
 40,38,Son,Deelip,Perusetti,
-41,39,Daughter,Daughter,,
+41,39,Husband,Husband,,
 42,6,Wife,Bapanamma,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Bapanamma.jpg?raw=true
 43,42,Son,Adinarayana,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Adinarayana.JPG?raw=true
 44,43,Wife,Suryanarayan amma,Guttikonda / kodati,https://github.com/Manikantag20/Family/blob/main/Family_images/Suryanaranamma.JPG?raw=true
@@ -89,7 +89,7 @@ id,parentId,relation,name,position,image
 88,86,Son,Ramachandra Pavan Kumar,Guttikonda,https://github.com/Manikantag20/Family/blob/main/Family_images/gpavan.JPG?raw=true
 89,9,Husband,satyam,Guttikonda,
 90,89,Son,Satyanarana,Guttikonda,
-91,54,Amma,Family Details,,
+91,83,Amma,Family Details,,
 92,91,Father,Siva ShankaraRao,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Sivasankararao.JPG?raw=true
 93,91,Mother,Nagaratnam,Vinjamuri /,https://github.com/Manikantag20/Family/blob/main/Family_images/Ammama.png?raw=true
 94,92,Daughter,Vijayalakshmi,Vinjamuri / Guttikonda,
@@ -118,14 +118,14 @@ id,parentId,relation,name,position,image
 117,116,Daughter,Maha lakshmi naga Sailaja,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Naga%20sailaja.jpg?raw=true
 118,116,Son,Pretam Ram Karthik,Vinjamuri,https://github.com/Manikantag20/Family/blob/main/Family_images/Karthik.JPG?raw=true
 119,98,Wife,Lakshmi Sulochana,Vinjamuri / Vujjuru,https://github.com/Manikantag20/Family/blob/main/Family_images/Lakshmi%20Sulochana.JPG?raw=true
-120,109,Vadina,Family Details,,
+120,111,Vadina,Family Details,,
 121,120,Father,RamMurthi,Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramurthi.JPG?raw=true
 122,120,Mother,Lakshmi,Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/lakshmi.JPG?raw=true
 123,121,Son,Ramu ,Bandaru,https://github.com/Manikantag20/Family/blob/main/Family_images/Ramu.JPG?raw=true
 124,63,Husband,Sudharshan,,
-125,63,Family Details,Family Details,,
-126,125,Mother,Bhuvaneswari,,
-127,125,Father,Husband,,
+125,40,Wife,Wife,,
+126,41,Son,Son,,
+127,41,Daughter,Daughter,,
 128,1,,Sobhanadri,Guttikonda,
 129,1,Wife,Wife,Guttikonda,
 130,128,Son,Jaganandham,,
