@@ -135,6 +135,6 @@ id,parentId,Relation,Fullname,Surname,image,Date of Birth,Phone Number,Father Na
 167,166,Daughter,Adhvika,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Adhvika.jpg,,,Venkata Satyanarayana,Jyothi Naga Devi,,,Hyderabad,,Telangana,
 168,160,Wife,Jyothi,Bosukonda,https://github.com/Manikantag20/Family/blob/main/Family_images/Narasimhamurthi.wife.jpg?raw=true,,,,,,,Hyderabad,,Telangana,
 169,168,Daughter,Sri Sharanya,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sharanya.jpg,,,Narasimham,,,,Hyderabad,,Telangana,
-170,168,Son,Sri Karthikeya,,,,,Narasimham,,,,Hyderabad,,Telangana,
-171,168,Daughter,Sri Proovi,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sri%20proovi.jpg,,,,Narasimham,,,,Hyderabad,,Telangana,
+170,168,Son,Sri Karthikeya,Bosukonda,,,,Narasimham,,,,Hyderabad,,Telangana,
+171,168,Daughter,Sri Proovi,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sri%20proovi.jpg,,,Narasimham,,,,Hyderabad,,Telangana,
 127,158,Son,Anishwar SatyaDev,Amanchi,https://github.com/Manikantag20/Family/blob/main/Family_images/ANISHWAR%20SATYADEV.jpg?raw=true,,,Naga Venkata Ramarao,Divya,,,,,,
