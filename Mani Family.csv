@@ -126,7 +126,7 @@ id,parentId,Relation,Fullname,Surname,image,Date of Birth,Phone Number,Father Na
 158,151,Wife,Divya,Amanchi / Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Divya.png,,,Venkateswarlu,Satyavathi,,,,,,
 159,120,Brother,Venkateswarlu,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Venkateswarlu.JPG,,,,,,,,,,
 160,120,Brother,Narasimham,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Narasimhamurthi.jpg,,,,,,Near Yousufguda Checkpost metro station ,Hyderabad,,Telangana,
-161,159,Wife,Satyavathi,Bosukonda / Guttikonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Satyavathi.JPG,,,,,,,,,,
+161,159,Wife,Satyavathi,Bosukonda / Guttikonda ,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Satyavathi.JPG,,,,,,,,,,
 162,161,Son,Srinivas,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Srinivas%20hyd.jpg,,,Venkateswarlu,Satyavathi,,,,,,
 163,161,Son,Venkata Satyanarayana,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Satyanarayana%20HYD.jpg,,,,,,Near Yousufguda Checkpost metro station ,Hyderabad,,Telangana,
 164,161,Daughter,Divya,Bosukonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Divya.png,,,Venkateswarlu,Satyavathi,,,,,,
@@ -140,5 +140,6 @@ id,parentId,Relation,Fullname,Surname,image,Date of Birth,Phone Number,Father Na
 172,158,Son,Anishwar SatyaDev,Amanchi,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/ANISHWAR%20SATYADEV.jpg,,,Ramarao,Divya,,,,,,
 173,87,Husband,Uday Sai Prakash,Kappala,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Uday%20Bava.JPG,,,Kappala Srinivasu,Jyothi,,Near Main road Nallajarla center,Nallajarla,534112,Andhra Pradesh,
 174,46,Wife,Sharvani,Guttikonda / Emandi,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sharvani.jpg,,,Emandi BhaskaraRao,Nirmala,,,,,,
+
 
 
