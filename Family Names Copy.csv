@@ -62,7 +62,7 @@ id,parentId,Relation,Fullname,Surname,image,Date of Birth,Phone Number,Father Na
 61,59,Daughter,Teja Sri,Guttikonda,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/tejasri.png,,,,,,5-19/B Near Main road Floor mill Tetali,Tanuku,534211,Andhra Pradesh,
 62,58,Husband,Srinivasa rao,Kolli,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Srinivasu.JPG,,,,,,,Rajahmundry ,,Andhra Pradesh,
 63,62,Daughter,Teja Swi,Bingi / Kolli,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Tejaswi.jpg,,+91 8688183199,Kolli. Srinivasarao,Venkata Padmavathi,,,Hyderabad,,Telangana,
-64,62,Son,Veeradra Vijay,Kolli,,,+91 6303226192,Kolli. Srinivasarao,Venkata Padmavathi,,,Rajahmundry ,,Andhra Pradesh,
+64,62,Son,Veeradra Vijay,Kolli,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Veerandra%20Vijay.jpg,14-05-2002,+91 6303226192,Kolli. Srinivasarao,Venkata Padmavathi,,,Rajahmundry ,,Andhra Pradesh,
 65,52,Husband,Rajarao ,Giduthuri,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Rajarao.JPG,,,,,,,,,,
 66,65,Son,Veera venkata satyanarayana,Giduthuri,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Satyanarayana.G.JPG,,+91 8328608906,Giduthuri. Rajarao,Ratnam,,"Near 32/11kv substation backside,bypass road NH-16 Tetali, Tanuku",Tanuku,534211,Andhra Pradesh,
 67,65,Son,Sai babu,Giduthuri,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sai%20babu.jpg,,+91 9885185767,Giduthuri. Rajarao,Ratnam,,,Tanuku,534211,Andhra Pradesh,
@@ -140,3 +140,4 @@ id,parentId,Relation,Fullname,Surname,image,Date of Birth,Phone Number,Father Na
 172,158,Son,Anishwar SatyaDev,Amanchi,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/ANISHWAR%20SATYADEV.jpg,,,Amanchi. Ramarao,Divya,,,,,,
 173,46,Wife,Sharvani,Guttikonda / Emandi,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Sharvani.jpg,,,Emandi. Bhaskara Rao,Nirmala,Younger Brother,Near SaiBaba Temple Pedda Waltair,Visakhapatnam,530017,Andhra Pradesh,
 174,87,Husband,Uday Sai Prakash,Kappala,https://raw.githubusercontent.com/Manikantag20/Family/refs/heads/main/Family_images/Uday%20Bava.JPG,,,Kappala. Srinivasu,Jyothi,Goli Meenamrutha,Near main road Nallajarla center,Nallajarla,534112,Andhra Pradesh,
+175,166,Daughter,Saanvika,Bosukonda,,,,Veera Venkata Satyanarayana,Divya Jyothi,,Near Yousufguda Checkpost metro station ,Hyderabad,,Telangana,
